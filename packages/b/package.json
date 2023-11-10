@@ -1,0 +1,10 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "exports": {
+    "source": "./lib/source/index.ts",
+    "require": "./lib/require/index.js",
+    "import": "./lib/import/index.js",
+    "default": "./lib/require/index.js"
+  }
+}

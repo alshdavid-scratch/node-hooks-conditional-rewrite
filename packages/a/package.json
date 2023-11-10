@@ -1,0 +1,10 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "^20.9.0",
+    "b": "workspace:*",
+    "src-hook": "workspace:*",
+    "tsx": "^4.0.0"
+  }
+}
